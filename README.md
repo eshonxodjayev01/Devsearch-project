@@ -13,4 +13,4 @@
 
 ![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/0c6316b6-8252-4796-b0a4-685b578d143b)
 
-![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/ce9fb638-1160-40ae-bff2-bb2b50469146)
+![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/bd9265f2-bcdd-4458-a289-cdc22fbf1e11)
