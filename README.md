@@ -7,7 +7,7 @@
 
 ![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/ec6c16ff-377d-4881-a694-f3ab3f21b54f)
 
-![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/5db37bd1-b106-410d-aef4-416f32d80f01)
+![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/86b7e394-a279-48c6-8517-94c919c09101)
 
 ![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/ee5fb27b-db38-41cb-8cb6-8ac945db23e5)
 
