@@ -1,4 +1,6 @@
 # Devsearch-project
+This is a Devsearch project which is the social media for developers. As you see they have own profiles, worked projects, communicate, rate projects, feedbacks and also messsaging with each other.
+
 ![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/9adbb9a3-c9af-46cd-9e8b-90d69203a389)
 
 ![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/e096247d-5292-473d-9ebe-d9876006d2c0)
