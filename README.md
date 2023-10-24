@@ -7,9 +7,8 @@
 
 ![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/ee5fb27b-db38-41cb-8cb6-8ac945db23e5)
 
-![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/ce9fb638-1160-40ae-bff2-bb2b50469146)
-
 ![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/0c6316b6-8252-4796-b0a4-685b578d143b)
 
 ![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/77073ad6-e849-4fee-9fb5-bd53490fb9e8)
 
+![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/ce9fb638-1160-40ae-bff2-bb2b50469146)
