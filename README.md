@@ -5,6 +5,10 @@
 
 ![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/a5568b47-e2d0-49e8-935f-dcc9a91d477d)
 
+![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/ec6c16ff-377d-4881-a694-f3ab3f21b54f)
+
+![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/5db37bd1-b106-410d-aef4-416f32d80f01)
+
 ![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/ee5fb27b-db38-41cb-8cb6-8ac945db23e5)
 
 ![image](https://github.com/eshonxodjayev01/Devsearch-project/assets/93433600/0c6316b6-8252-4796-b0a4-685b578d143b)
